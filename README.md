@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali Al-Dweib
-- 👀 I’m interested in Computational Mathematics 
+- 👀 I’m interested in programming
 - 📫 you can reach me by E-mail: a.aldweib99@outlook.com
 
 <!---
